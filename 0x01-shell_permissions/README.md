@@ -1,1 +1,1 @@
-This README.md file decribes the shell permissions
+#This project helps to describe the commands for shell permissions
